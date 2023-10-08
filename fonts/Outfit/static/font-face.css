@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Black.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-ExtraBold.ttf');
+    font-weight: bolder;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-ExtraLight.ttf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Light.ttf');
+    font-weight: light;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Medium.ttf');
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-SemiBold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Thin.ttf');
+    font-weight: thin;
+}
